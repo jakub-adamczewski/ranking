@@ -1,0 +1,8 @@
+,Tesla X P100D,Tesla S P100D,Porshe Taycan Turbo,Audi e-tron GT quattro,Kia e-niro,Kia EV6,Hyundai Kona E ,Hyundai IONIC,VW ID3,VW ID 4
+cena [tys zl],660,650,670,500,150,300,160,320,220,270
+moc [km],790,780,795,530,170,350,180,370,220,250
+moment obrotowy [Nm],1000,900,850,670,200,400,210,410,250,280
+przyspieszenie do 100 [s],3,2.5,2.4,4.1,6.5,5,6.3,4.8,6.7,7.3
+pojemnosc aku [kWh],100,100,94,85,65,80,75,90,75,90
+zuzycie energii [kWh/100km],28,20,24,22,14,17,16,18,18,22
+naped na kola,4,4,4,4,2,4,2,4,2,2
